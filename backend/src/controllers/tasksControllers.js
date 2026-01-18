@@ -1,4 +1,4 @@
-import Task from "../modules/Task.js";
+import Task from "../modules/task.js";
 
 
 
